@@ -1,0 +1,3 @@
+*Predicting whether a customer will purchase bike or not with Azure machine learning
+
+https://gallery.azure.ai/Experiment/Predicting-whether-a-customer-will-purchase-bike-or-not-with-Azure-machine-learning

@@ -1,0 +1,3 @@
+*Predicting the survival of Titanic passengers with Random forest
+
+https://gallery.azure.ai/Experiment/Predicting-the-survival-of-Titanic-passengers-with-Random-forest
